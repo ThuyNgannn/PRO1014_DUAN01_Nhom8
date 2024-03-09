@@ -1,0 +1,31 @@
+.content {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, .7);
+    // .inner-content {
+    //     max-width: 1000px;
+    //     margin: auto;
+    //     position: absolute;
+    //     left: 0;
+    //     right: 0;
+    //     transform: translate(0, -50%);
+    //     z-index: 0;
+        
+    // }
+    .navbar{
+        max-width: 500px;
+        background: rgba(0, 0, 0, .7);
+        margin-top: 40%;
+    }
+}
+.container-fluid{
+    .d-flex{
+        text-align: center;
+ 
+    }
+}
+// .inner-content h1 {
+//     font: 3em;
+//     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+// }
