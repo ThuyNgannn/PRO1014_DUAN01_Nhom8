@@ -1,0 +1,30 @@
+/* -==============================Slick slider==================== */
+
+.slider-banner-slick .slick-prev,
+.slider-banner-slick .slick-next {
+    padding: 18px 7px;
+    color: #fff;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.3);
+    position: absolute;
+    z-index: 9;
+    position: absolute;
+}
+.slider-banner-slick .slick-prev:before,
+.slider-banner-slick .slick-next:before {
+    display: none;
+}
+.slider-banner-slick .slick-prev {
+    left: 0;
+}
+.slider-banner-slick .slick-next {
+    right: 0;
+}
+.slider-banner-slick .item-slide img {
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+}
+.item-slide {
+    height: auto;
+}
