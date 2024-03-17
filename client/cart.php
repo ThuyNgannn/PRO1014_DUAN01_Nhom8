@@ -16,7 +16,7 @@
                         <tr>
                             <th scope="col"> </th>
                             <th scope="col">Sản phẩm</th>
-                            <th scope="col">Tráng thái</th>
+                            <th scope="col">Trạng thái</th>
                             <th scope="col" class="text-center">Số lượng</th>
                             <th scope="col" class="text-right">Giá</th>
                             <th> </th>
@@ -24,15 +24,15 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td><img src="https://dummyimage.com/50x50/55595c/fff" /> </td>
-                            <td>Product Name Dada</td>
+                            <td><img style="height: 50px; weight:50px;" src="./images/ao/Aokieu1.jpg"/> </td>
+                            <td>Áo thun trễ vai vạt chéo</td>
                             <td>In stock</td>
                             <td><input class="form-control" type="text" value="1" /></td>
-                            <td class="text-right">124,90 $</td>
+                            <td class="text-right">50.000 đ</td>
                             <td class="text-right"><button class="btn btn-sm btn-danger"><i class="fa fa-trash"></i>
                                 </button> </td>
                         </tr>
-                        <tr>
+                        <!-- <tr>
                             <td><img src="https://dummyimage.com/50x50/55595c/fff" /> </td>
                             <td>Product Name Toto</td>
                             <td>In stock</td>
@@ -50,13 +50,13 @@
                             <td class="text-right"><button class="btn btn-sm btn-danger"><i class="fa fa-trash"></i>
                                 </button> </td>
                         </tr>
-                        <tr>
+                        <tr> -->
                             <td></td>
                             <td></td>
                             <td></td>
                             <td></td>
                             <td>Tổng</td>
-                            <td class="text-right">255,90 $</td>
+                            <td class="text-right">50.000 đ</td>
                         </tr>
                         <tr>
                             <td></td>
@@ -64,7 +64,7 @@
                             <td></td>
                             <td></td>
                             <td>Phí vận chuyển</td>
-                            <td class="text-right">6,90 $</td>
+                            <td class="text-right">25.000 đ</td>
                         </tr>
                         <tr>
                             <td></td>
@@ -72,7 +72,7 @@
                             <td></td>
                             <td></td>
                             <td><strong>Thanh toán</strong></td>
-                            <td class="text-right"><strong>346,90 $</strong></td>
+                            <td class="text-right"><strong>75.000 đ</strong></td>
                         </tr>
                     </tbody>
                 </table>

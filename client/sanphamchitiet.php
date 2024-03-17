@@ -31,7 +31,7 @@
             <div class="card bg-light mb-3">
                 <div class="card-body">
                     <a href="" data-toggle="modal" data-target="#productModal">
-                        <img class="img-fluid" src="https://dummyimage.com/800x800/55595c/fff" />
+                        <img class="img-fluid" src="./images/Ao/Aokieu1.jpg" />
                         <p class="text-center">Phóng to ảnh</p>
                     </a>
                 </div>
@@ -42,20 +42,20 @@
         <div class="col-12 col-lg-6 add_to_cart_block">
             <div class="card bg-light mb-3">
                 <div class="card-body">
-                    <p class="price">99.00 $</p>
-                    <p class="price_discounted">149.90 $</p>
+                    <p class="price">50.000 đ</p>
+                    <p class="price_discounted">100.000 đ</p>
                     <form method="get" action="cart.html">
                         <div class="form-group">
-                            <label for="colors">Color</label>
+                            <label for="colors">Màu sắc:</label>
                             <select class="custom-select" id="colors">
                                 <option selected>Chọn</option>
-                                <option value="1">Blue</option>
-                                <option value="2">Red</option>
-                                <option value="3">Green</option>
+                                <option value="1">Đen</option>
+                                <option value="2">Trắng</option>
+                                <option value="3">Đỏ</option>
                             </select>
                         </div>
                         <div class="form-group">
-                            <label>Quantity :</label>
+                            <label>Số lượng :</label>
                             <div class="input-group mb-3">
                                 <div class="input-group-prepend">
                                     <button type="button" class="quantity-left-minus btn btn-danger btn-number" data-type="minus" data-field="">
@@ -93,9 +93,9 @@
                         (4/5)
                         <a class="pull-right" href="#reviews">Xem tất cả đánh giá</a>
                     </div>
-                    <div class="datasheet p-3 mb-2 bg-info text-white">
+                    <!-- <div class="datasheet p-3 mb-2 bg-info text-white">
                         <a href="" class="text-white"><i class="fa fa-file-text"></i> Download DataSheet</a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -109,26 +109,28 @@
                     Mô tả sản phẩm</div>
                 <div class="card-body">
                     <p class="card-text">
-                        Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page
-                        avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les
-                        années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser
-                        un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est
-                        aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été
-                        popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages
-                        du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page
-                        de texte, comme Aldus PageMaker.
+                        THÔNG TIN ÁO THUN TRỄ VAI
                     </p>
                     <p class="card-text">
-                        Contrairement à une opinion répandue, le Lorem Ipsum n'est pas simplement du texte
-                        aléatoire. Il trouve ses racines dans une oeuvre de la littérature latine classique datant
-                        de 45 av. J.-C., le rendant vieux de 2000 ans. Un professeur du Hampden-Sydney College, en
-                        Virginie, s'est intéressé à un des mots latins les plus obscurs, consectetur, extrait d'un
-                        passage du Lorem Ipsum, et en étudiant tous les usages de ce mot dans la littérature
-                        classique, découvrit la source incontestable du Lorem Ipsum. Il provient en fait des
-                        sections 1.10.32 et 1.10.33 du "De Finibus Bonorum et Malorum" (Des Suprêmes Biens et des
-                        Suprêmes Maux) de Cicéron. Cet ouvrage, très populaire pendant la Renaissance, est un traité
-                        sur la théorie de l'éthique. Les premières lignes du Lorem Ipsum, "Lorem ipsum dolor sit
-                        amet...", proviennent de la section 1.10.32.
+                        -Hàng thiết kế freesize:40-55kg(1m50-1m65)
+                    </p>
+                    <p class="card-text">
+                        -Chiều dài áo : 45cm
+                    </p>
+                    <p class="card-text">
+                        -1m48-1m52:40-45kg
+                    </p>
+                    <p class="card-text">
+                        -1m53-1m59:46-49kg
+                    </p>
+                    <p class="card-text">
+                        -1m60-1m65:50-55kg
+                    </p>
+                    <p class="card-text">
+                        - Màu sắc :đen ,trắng
+                    </p>
+                    <p class="card-text">
+                        - Chất liệu ;thun bozip dày dặn , co giãn thoải mái
                     </p>
                 </div>
             </div>
@@ -142,33 +144,31 @@
                 <div class="card-body">
                     <div class="review">
                         <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>
-                        <meta itemprop="datePublished" content="01-01-2016">January 01, 2018
+                        <meta itemprop="datePublished" content="01-01-2016">Ngày 01 tháng 1 năm 2018
 
                         <span class="fa fa-star"></span>
                         <span class="fa fa-star"></span>
                         <span class="fa fa-star"></span>
                         <span class="fa fa-star"></span>
                         <span class="fa fa-star"></span>
-                        by <b>Paul Smith</b>
+                        Bởi <b>Yu</b>
                         <p class="blockquote">
-                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere
-                            erat a ante.</p>
+                        <p class="mb-0">Áo đẹp quá.</p>
                         </p>
                         <hr>
                     </div>
                     <div class="review">
                         <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>
-                        <meta itemprop="datePublished" content="01-01-2016">January 01, 2018
+                        <meta itemprop="datePublished" content="01-01-2016">Ngày 01 tháng 1 năm 2018
 
                         <span class="fa fa-star" aria-hidden="true"></span>
                         <span class="fa fa-star" aria-hidden="true"></span>
                         <span class="fa fa-star" aria-hidden="true"></span>
                         <span class="fa fa-star" aria-hidden="true"></span>
                         <span class="fa fa-star" aria-hidden="true"></span>
-                        by <b>Paul Smith</b>
+                        Bởi <b>Trúc</b>
                         <p class="blockquote">
-                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere
-                            erat a ante.</p>
+                        <p class="mb-0">Chất vải tốt mặc mát.</p>
                         </p>
                         <hr>
                     </div>
@@ -187,62 +187,56 @@
     </div>
 </div>
 <!-- Same product -->
-<section class="same-product mt-5">
-    <h3 class="same-product-title text-center">Sản phẩm cùng loại</h3>
+<!-- <section class="same-product mt-5">
+    <h3 class="same-product-title text-center">Sản phẩm cùng loại</h3> -->
     <!-- ============== COMPONENT SLIDER ITEMS SLICK  ============= -->
-    <div class="container-fluid p-5">
+    <!-- <div class="container-fluid p-5">
         <div class="row">
             <div class="col-md-12">
                 <div class="owl-carousel">
                     <div class="product-card">
-                        <div class="product-badge text-danger">23% Off</div><a class="product-thumb" href="#" data-abc="true"><img class="product-img" src="../access/images/items/1.jpg" alt="Product"></a>
-                        <h3 class="product-title"><a href="#" data-abc="true">Microsoft Surface Pro 4</a></h3>
-                        <h4 class="product-price"> <del>$444.99</del>$344.99 </h4>
-                        <div class="product-buttons"> <button class="btn btn-outline-primary btn-sm">Add to
-                                Cart</button> </div>
+                        <div class="product-badge text-danger"></div><a class="product-thumb" href="#" data-abc="true"><img class="product-img" src="./images/Ao/Aokieu2.jpg" alt="Product"></a>
+                        <h3 class="product-title"><a href="#" data-abc="true">Áo kiểu pháp nữ dáng baby tee vải xốp nhăn co dãn</a></h3>
+                        <h4 class="product-price"> <del></del>!50.000 đ</h4>
+                        <div class="product-buttons"> <button class="btn btn-outline-primary btn-sm">Thêm vào giỏ hàng</button> </div>
                     </div>
                     <div class="product-card">
-                        <div class="product-badge text-danger">25% Off</div><a class="product-thumb" href="#" data-abc="true"><img class="product-img" src="../access/images/items/2.jpg" alt="Product"></a>
-                        <h3 class="product-title"><a href="#" data-abc="true">Dell Inspiration 4</a></h3>
-                        <h4 class="product-price"> <del>$544.99</del>$444.99 </h4>
-                        <div class="product-buttons"> <button class="btn btn-outline-primary btn-sm">Add to
-                                Cart</button> </div>
+                        <div class="product-badge text-danger">25% Off</div><a class="product-thumb" href="#" data-abc="true"><img class="product-img" src="./images/Ao/Aokieu3.jpg" alt="Product"></a>
+                        <h3 class="product-title"><a href="#" data-abc="true">Lovito Áo thun trơn - Waffle Knit -Áo thun polo cho nữ</a></h3>
+                        <h4 class="product-price"> <del>199.000 đ</del>174.000 đ </h4>
+                        <div class="product-buttons"> <button class="btn btn-outline-primary btn-sm">Thêm vào giỏ hàng</button> </div>
                     </div>
                     <div class="product-card">
-                        <div class="product-badge text-danger">28% Off</div><a class="product-thumb" href="#" data-abc="true"><img class="product-img" src="../access/images/items/3.jpg" alt="Product"></a>
-                        <h3 class="product-title"><a href="#" data-abc="true">Dell Xtreame 5</a></h3>
-                        <h4 class="product-price"> <del>$244.99</del>$144.99 </h4>
-                        <div class="product-buttons"> <button class="btn btn-outline-primary btn-sm">Add to
-                                Cart</button> </div>
+                        <div class="product-badge text-danger"></div><a class="product-thumb" href="#" data-abc="true"><img class="product-img" src="./images/Ao/Aokieu4.jpg" alt="Product"></a>
+                        <h3 class="product-title"><a href="#" data-abc="true">Áo thun kiểu lệch vai</a></h3>
+                        <h4 class="product-price"> <del></del>100.000 đ </h4>
+                        <div class="product-buttons"> <button class="btn btn-outline-primary btn-sm">Thêm vào giỏ hàng</button> </div>
                     </div>
                     <div class="product-card">
-                        <div class="product-badge text-danger">48% Off</div><a class="product-thumb" href="" data-abc="true"><img class="product-img" src="../access/images/items/4.jpg" alt="Product"></a>
-                        <h3 class="product-title"><a href="" data-abc="true">HP Pro 4</a></h3>
-                        <h4 class="product-price"> <del>$544.99</del>$344.99 </h4>
-                        <div class="product-buttons"> <button class="btn btn-outline-primary btn-sm">Add to
-                                Cart</button> </div>
+                        <div class="product-badge text-danger"></div><a class="product-thumb" href="" data-abc="true"><img class="product-img" src="./images/Ao/Aokieu5.png" alt="Product"></a>
+                        <h3 class="product-title"><a href="" data-abc="true">Áo Kiểu Trễ Vai Dáng Dài Xẻ Tà</a></h3>
+                        <h4 class="product-price"> <del></del>140.000 đ </h4>
+                        <div class="product-buttons"> <button class="btn btn-outline-primary btn-sm">Thêm vào giỏ hàng</button> </div>
                     </div>
                     <div class="product-card">
-                        <div class="product-badge text-danger">29% Off</div><a class="product-thumb" href="#" data-abc="true"><img class="product-img" src="../access/images/items/5.jpg" alt="Product"></a>
+                        <div class="product-badge text-danger"></div><a class="product-thumb" href="#" data-abc="true"><img class="product-img" src="./images/Ao/Aokieu6.png" alt="Product"></a>
+                        <h3 class="product-title"><a href="#" data-abc="true">Áo Kiểu Tay Dài Cổ Tròn Lớn Phối Ren</a></h3>
+                        <h4 class="product-price"> <del></del>50.000đ </h4>
+                        <div class="product-buttons"> <button class="btn btn-outline-primary btn-sm">Thêm vào giỏ hàng</button> </div>
+                    </div>
+                    <div class="product-card">
+                        <div class="product-badge text-danger"></div><a class="product-thumb" href="#" data-abc="true"><img class="product-img" src="../access/images/items/5.jpg" alt="Product"></a>
                         <h3 class="product-title"><a href="#" data-abc="true">Microsoft surface 5</a></h3>
                         <h4 class="product-price"> <del>$644.99</del>$344.99 </h4>
-                        <div class="product-buttons"> <button class="btn btn-outline-primary btn-sm">Add to
-                                Cart</button> </div>
-                    </div>
-                    <div class="product-card">
-                        <div class="product-badge text-danger">29% Off</div><a class="product-thumb" href="#" data-abc="true"><img class="product-img" src="../access/images/items/5.jpg" alt="Product"></a>
-                        <h3 class="product-title"><a href="#" data-abc="true">Microsoft surface 5</a></h3>
-                        <h4 class="product-price"> <del>$644.99</del>$344.99 </h4>
-                        <div class="product-buttons"> <button class="btn btn-outline-primary btn-sm">Add to
-                                Cart</button> </div>
+                        <div class="product-buttons"> <button class="btn btn-outline-primary btn-sm">Thêm vào giỏ hàng</button> </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    </div>
-    <!-- ============== COMPONENT SLIDER ITEMS SLICK .end // ============= -->
-</section>
+    </div> -->
+    <!-- ============== COMPONENT SLIDER ITEMS SLICK .end // =============
+</section>-->
 
 
 <? include "particals/footer.php"; ?>

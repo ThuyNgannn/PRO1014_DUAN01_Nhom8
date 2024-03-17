@@ -49,13 +49,13 @@
                             <a class="nav-link" href="./danhmucsanpham.php">Sản phẩm</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Giới thiệu</a>
+                            <a class="nav-link" href="about.php">Giới thiệu</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Liên hệ</a>
+                            <a class="nav-link" href="./contact.php">Liên hệ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./contact.php">Chính sách</a>
+                            <a class="nav-link" href="#">Chính sách</a>
                         </li>
                     </ul>
 

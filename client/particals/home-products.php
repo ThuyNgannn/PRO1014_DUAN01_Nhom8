@@ -34,15 +34,15 @@
                                         <img class="card-img-top" src="./images/ao/Aokieu2.jpg"
                                             alt="Card image cap">
                                         <div class="card-body">
-                                            <h4 class="card-title text-center"><a href="product.html"
-                                                    title="View Product">Áo kiểu pháp nữ dáng baby tee vải xốp nhăn co dãn 4 chiều</a></h4>
+                                            <h4 class="card-title text-center"><a href="product-detail.html"
+                                                    title="View Product">Áo kiểu pháp nữ dáng baby tee vải xốp nhăn co dãn</a></h4>
 
                                             <div class="row">
                                                 <div class="col">
                                                     <p class="btn text font-weight-bold btn-block">150.000 đ</p>
                                                 </div>
                                                 <div class="col">
-                                                    <a href="cart.html" class="btn btn-danger btn-block">Thêm vào giỏ
+                                                    <a href="./cart.php" class="btn btn-danger btn-block">Thêm vào giỏ
                                                         hàng</a>
                                                 </div>
                                             </div>
@@ -51,19 +51,18 @@
                                 </div>
                                 <div class="col-md-3 mt-3">
                                     <div class="card">
-                                        <img class="card-img-top" src="https://dummyimage.com/600x400/55595c/fff"
+                                        <img class="card-img-top" src="./images/Trangsuc/Vongco1.jpg"
                                             alt="Card image cap">
                                         <div class="card-body">
                                             <h4 class="card-title text-center"><a href="product.html"
-                                                    title="View Product">Product
-                                                    title</a></h4>
+                                                    title="View Product">Vòng cổ choker ngọc trai kim cương dạng mở có thể điều chỉnh</a></h4>
 
                                             <div class="row">
                                                 <div class="col">
-                                                    <p class="btn text font-weight-bold btn-block">99.00 $</p>
+                                                    <p class="btn text font-weight-bold btn-block">40.000 đ</p>
                                                 </div>
                                                 <div class="col">
-                                                    <a href="cart.html" class="btn btn-danger btn-block">Thêm vào giỏ
+                                                    <a href="./cart.php" class="btn btn-danger btn-block">Thêm vào giỏ
                                                         hàng</a>
                                                 </div>
                                             </div>
@@ -72,16 +71,15 @@
                                 </div>
                                 <div class="col-md-3 mt-3">
                                     <div class="card">
-                                        <img class="card-img-top" src="https://dummyimage.com/600x400/55595c/fff"
+                                        <img class="card-img-top" src="./images/Trangsuc/Vongco2.jpg"
                                             alt="Card image cap">
                                         <div class="card-body">
                                             <h4 class="card-title text-center"><a href="product.html"
-                                                    title="View Product">Product
-                                                    title</a></h4>
+                                                    title="View Product">Ahellogirl Bạc Dây chuyền mặt hình thanh dọc đính đá</a></h4>
 
                                             <div class="row">
                                                 <div class="col">
-                                                    <p class="btn text font-weight-bold btn-block">99.00 $</p>
+                                                    <p class="btn text font-weight-bold btn-block">40.000 đ</p>
                                                 </div>
                                                 <div class="col">
                                                     <a href="cart.html" class="btn btn-danger btn-block">Thêm vào giỏ

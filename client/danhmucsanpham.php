@@ -29,23 +29,22 @@
                 <div class="card-header bg-secondary text-white text-uppercase"><i class="fa fa-list"></i> Danh mục
                 </div>
                 <ul class="list-group category_block">
-                    <li class="list-group-item"><a href="category.html">Cras justo odio</a></li>
-                    <li class="list-group-item"><a href="category.html">Dapibus ac facilisis in</a></li>
-                    <li class="list-group-item"><a href="category.html">Morbi leo risus</a></li>
-                    <li class="list-group-item"><a href="category.html">Porta ac consectetur ac</a></li>
-                    <li class="list-group-item"><a href="category.html">Vestibulum at eros</a></li>
-                    <li class="list-group-item"><a href="category.html">Vestibulum at eros</a></li>
-                    <li class="list-group-item"><a href="category.html">Vestibulum at eros</a></li>
+                    <li class="list-group-item"><a href="category.html">Áo</a></li>
+                    <li class="list-group-item"><a href="category.html">Váy</a></li>
+                    <li class="list-group-item"><a href="category.html">Quần</a></li>
+                    <li class="list-group-item"><a href="category.html">Trang sức</a></li>
+                    <li class="list-group-item"><a href="category.html">Túi xác</a></li>
+                    <li class="list-group-item"><a href="category.html">Giày</a></li>
+                    <li class="list-group-item"><a href="category.html">Dép</a></li>
                 </ul>
             </div>
             <div class="card bg-light mb-3">
                 <div class="card-header bg-success text-white text-uppercase">Sản phẩm hot nhất</div>
                 <div class="card-body">
-                    <img class="img-fluid" src="https://dummyimage.com/600x400/55595c/fff" />
-                    <h5 class="card-title">Product title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                        the card's content.</p>
-                    <p class="red text-center font-weight-bold">99.00 $</p>
+                    <img class="img-fluid" src="./images/Trangsuc/Vongco3.jpg" />
+                    <h5 class="card-title">Dây chuyền mặt vuông nữ khối kim loại.</h5>
+                    <p class="card-text">30.000 đ</p>
+                    <p class="red text-center font-weight-bold">Đặt hàng ngay</p>
                 </div>
             </div>
         </div>
@@ -53,16 +52,16 @@
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-4 mt-2">
                     <div class="card">
-                        <img class="card-img-top" src="https://dummyimage.com/600x400/55595c/fff" alt="Card image cap">
+                        <img class="card-img-top" src="./images/Vay/Vay1.jpg" alt="Card image cap">
                         <div class="card-body">
-                            <h4 class="card-title"><a href="product.html" title="View Product">Product title</a>
+                            <h4 class="card-title"><a href="product.html" title="View Product">Đầm Body Nữ Tay Ngắn Cổ Vuông, Đầm Nữ Dáng Dài Diamond Dress ( có bigsize) </a>
                             </h4>
                             <div class="row">
                                 <div class="col">
-                                    <p class="btn font-weight-bold btn-block">99.00 $</p>
+                                    <p class="btn font-weight-bold btn-block">199.000 đ</p>
                                 </div>
                                 <div class="col">
-                                    <a href="#" class="btn btn-danger btn-block">Add to cart</a>
+                                    <a href="#" class="btn btn-danger btn-block">Đặt hàng ngay</a>
                                 </div>
                             </div>
                         </div>
@@ -70,16 +69,16 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 mt-2">
                     <div class="card">
-                        <img class="card-img-top" src="https://dummyimage.com/600x400/55595c/fff" alt="Card image cap">
+                        <img class="card-img-top" src="./images/Vay/Vay2.jpg" alt="Card image cap">
                         <div class="card-body">
-                            <h4 class="card-title"><a href="product.html" title="View Product">Product title</a>
+                            <h4 class="card-title"><a href="product.html" title="View Product">Đầm nữ tay ngắn cổ vuông dáng xòe </a>
                             </h4>
                             <div class="row">
                                 <div class="col">
-                                    <p class="btn font-weight-bold btn-block">99.00 $</p>
+                                    <p class="btn font-weight-bold btn-block">70.000 đ</p>
                                 </div>
                                 <div class="col">
-                                    <a href="#" class="btn btn-danger btn-block">Add to cart</a>
+                                <a href="#" class="btn btn-danger btn-block">Đặt hàng ngay</a>
                                 </div>
                             </div>
                         </div>
@@ -87,16 +86,16 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 mt-2">
                     <div class="card">
-                        <img class="card-img-top" src="https://dummyimage.com/600x400/55595c/fff" alt="Card image cap">
+                        <img class="card-img-top" src="./images/Ao/Aokieu3.jpg" alt="Card image cap">
                         <div class="card-body">
-                            <h4 class="card-title"><a href="product.html" title="View Product">Product title</a>
+                            <h4 class="card-title"><a href="product.html" title="View Product">Lovito Áo thun trơn - Waffle Knit -Áo thun polo cho nữ</a>
                             </h4>
                             <div class="row">
                                 <div class="col">
-                                    <p class="btn font-weight-bold btn-block">99.00 $</p>
+                                    <p class="btn font-weight-bold btn-block">199.000 đ</p>
                                 </div>
                                 <div class="col">
-                                    <a href="#" class="btn btn-danger btn-block">Add to cart</a>
+                                <a href="#" class="btn btn-danger btn-block">Đặt hàng ngay</a>
                                 </div>
                             </div>
                         </div>
@@ -104,16 +103,16 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 mt-2">
                     <div class="card">
-                        <img class="card-img-top" src="https://dummyimage.com/600x400/55595c/fff" alt="Card image cap">
+                        <img class="card-img-top" src="./images/Quan/Quan1.jpg" alt="Card image cap">
                         <div class="card-body">
-                            <h4 class="card-title"><a href="product.html" title="View Product">Product title</a>
+                            <h4 class="card-title"><a href="product.html" title="View Product">Quần Ống Loe Lưng Cao</a>
                             </h4>
                             <div class="row">
                                 <div class="col">
-                                    <p class="btn font-weight-bold btn-block">99.00 $</p>
+                                    <p class="btn font-weight-bold btn-block">200.000 đ</p>
                                 </div>
                                 <div class="col">
-                                    <a href="#" class="btn btn-danger btn-block">Add to cart</a>
+                                <a href="#" class="btn btn-danger btn-block">Đặt hàng ngay</a>
                                 </div>
                             </div>
                         </div>
@@ -121,16 +120,16 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 mt-2">
                     <div class="card">
-                        <img class="card-img-top" src="https://dummyimage.com/600x400/55595c/fff" alt="Card image cap">
+                        <img class="card-img-top" src="./images/Quan/Quan2.jpg" alt="Card image cap">
                         <div class="card-body">
-                            <h4 class="card-title"><a href="product.html" title="View Product">Product title</a>
+                            <h4 class="card-title"><a href="product.html" title="View Product">Quần Short Nữ Basic Cạp Cao Chất Nhung Tăm</a>
                             </h4>
                             <div class="row">
                                 <div class="col">
-                                    <p class="btn font-weight-bold btn-block">99.00 $</p>
+                                    <p class="btn font-weight-bold btn-block">50.000 đ</p>
                                 </div>
                                 <div class="col">
-                                    <a href="#" class="btn btn-danger btn-block">Add to cart</a>
+                                <a href="#" class="btn btn-danger btn-block">Đặt hàng ngay</a>
                                 </div>
                             </div>
                         </div>
@@ -138,16 +137,16 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 mt-2">
                     <div class="card">
-                        <img class="card-img-top" src="https://dummyimage.com/600x400/55595c/fff" alt="Card image cap">
+                        <img class="card-img-top" src="./images/Vay/Vay3.jpg" alt="Card image cap">
                         <div class="card-body">
-                            <h4 class="card-title"><a href="product.html" title="View Product">Product title</a>
+                            <h4 class="card-title"><a href="product.html" title="View Product">Váy đầm tiểu thư chất corduroy phối twill dày dặn nhiều màu liền mảnh kiểu Pháp</a>
                             </h4>
                             <div class="row">
                                 <div class="col">
-                                    <p class="btn font-weight-bold btn-block">99.00 $</p>
+                                    <p class="btn font-weight-bold btn-block">140.000 đ</p>
                                 </div>
                                 <div class="col">
-                                    <a href="#" class="btn btn-danger btn-block">Add to cart</a>
+                                <a href="#" class="btn btn-danger btn-block">Đặt hàng ngay</a>
                                 </div>
                             </div>
                         </div>
